@@ -7,7 +7,7 @@ Developer Java
 Systems Analysis and development student at <a href="https://www.uninassau.edu.br/">Uninassau</a>
 
 * ✉️  You can contact me at [arthur738pereira@gmail.com](mailto:arthur738pereira@gmail.com)
-* I'm learning Java
+* Currently studying JavaScript and its frameworks.
 
 ### Skills
 
