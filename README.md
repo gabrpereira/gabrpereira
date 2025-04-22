@@ -1,7 +1,7 @@
 Hi, My name is Gabriel Pereira![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-Developer Java
+Developer Front End 
 --------------
 
 Systems Analysis and development student at <a href="https://www.uninassau.edu.br/">Uninassau</a>
