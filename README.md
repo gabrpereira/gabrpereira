@@ -6,7 +6,8 @@ Hi, My name is Gabriel Pereira![](https://user-images.githubusercontent.com/1835
 ###
 
 <p align="left">🎓 Systems Analysis and development student at <a href="https://www.uninassau.edu.br/">Uninassau</a></p>
-<p>✉️  You can contact me at [arthur738pereira@gmail.com](mailto:arthur738pereira@gmail.com)</p>
+<span>✉️</span> You can contact me at <a href="mailto:arthur738pereira@gmail.com">arthur738pereira@gmail.com</a>
+</a>
 <p>💻 Currently studying JavaScript and its frameworks.</p>
 
 ###
@@ -35,26 +36,11 @@ Hi, My name is Gabriel Pereira![](https://user-images.githubusercontent.com/1835
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/gabrpereiradev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="instagram logo" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-pereira031" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin logo" />
-  </a>&nbsp;
-  <a href="https://discord.com/users/1240091592191250442" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40" alt="discord logo" />
-  </a>&nbsp;
-  <a href="mailto:arthur738pereira@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="gmail logo" />
-  </a>
-</div>
+<p align="left"> <a href="https://www.github.com/gabrpereira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: default)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/gabrpereiradev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabriel-pereira031/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/gabrpereira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@gabrpereira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrpereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1&custom_title=GaBR%20Pereira%20Dev%20GitHub%20Stats:" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs username=gabrpereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="130" alt="languages graph"/>
-</div>
 
 ###
