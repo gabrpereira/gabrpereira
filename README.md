@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">🎓 Systems Analysis and development student at Uninassau<br>✉️ You can contact me at arthur738pereira@gmail.com<br>💻 Currently studying Java and its frameworks.</p>
 
 ###
 
-<p align="left">🎓 Systems Analysis and development student at Uninassau<br>✉️ You can contact me at arthur738pereira@gmail.com<br>💻 Currently studying Java and its frameworks.</p>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
